@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 wawaawa
+=======
+"Este es mi archivo de prueba para el RA2" 
+>>>>>>> mi-cambio2
